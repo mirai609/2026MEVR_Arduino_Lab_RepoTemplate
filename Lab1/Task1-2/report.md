@@ -1,4 +1,4 @@
-**`Lab0/Task0-1/report.md`（完整示範報告）**
+**`Lab0/Task1-2/report.md`（完整示範報告）**
 
 ```markdown
 # 課題報告：Task 0-1 Hello World 序列埠輸出
