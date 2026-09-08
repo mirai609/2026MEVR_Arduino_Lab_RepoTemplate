@@ -18,7 +18,7 @@
 
 1. **影片替換**：各 Task 的 `video/` 資料夾預設包含助教的示範影片。**完成實驗後，請刪除TA示範影片，並將你親自錄製的操作影片改名為 `TaskX-Y.mp4` 存入該資料夾**。
 2. **報告填寫**：開啟該 Task 下的 `report.md`，依格式記錄實驗過程與數據。
-3. **提交方式**：
+3. **提交方式**：使用Github Desktop或使用以下git指令push
    ```bash
    git add .
    git commit -m "完成 Task X-Y 實驗與報告"
